@@ -1,0 +1,15 @@
+AUDIOS:
+https://pixabay.com/sound-effects/concrete-footsteps-6752/
+https://pixabay.com/sound-effects/deep-growl-81171/
+
+- If there's no ceilling on top of the player, the outside "wind" ambiance gets louder.
+- Scale buffer with numpy instead of pygame (Perhaps?)
+- Procedural Rooms Generation
+- Lightning based on sun_angle or a normal light source or both
+- Transparent textures by checking the intersection and tile_id
+- If the enemie has a direct sight of view of the player, then he goes directly towards them
+- If player is not in range and wasn't seen the entity will walk randomly through pre-determined paths
+
+# Good raycasting examples
+https://www.youtube.com/watch?v=IdivbBAl4b4
+https://wynnliam.github.io/raycaster/news/tutorial/2019/04/09/raycaster-part-03.html

@@ -1,0 +1,5 @@
+Every skybox texture is from Valve games
+
+plaster_wall.png | https://polyhaven.com/a/painted_plaster_wall
+brick_wall.png   | https://polyhaven.com/a/brick_wall_02
+planks_floor.png | https://polyhaven.com/a/wooden_planks
